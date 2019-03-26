@@ -1,4 +1,4 @@
-<!-- # Quotes Application
+# Quotes Application
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
 
@@ -13,7 +13,7 @@ Use the following to get to the quote application.
 - git clone (link)
 - cd Quotes
 - atom .  //For those using atom text editor.
-- code .  //For those using Visual Studio editor. -->
+- code .  //For those using Visual Studio editor.
 
 ## Development server
 
@@ -35,7 +35,7 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-### Technologies used
+<!-- ### Technologies used
 The different technologies that were used to develop this program include:
 1. Angular.
 2. Typescript.
@@ -50,7 +50,7 @@ The different technologies that were used to develop this program include:
 |-----------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 | If the user click the add quote button.             | The quote will be added to the view page.                                                                                   |
 | Initial upvote and downvote is zero If user clicks. | In upvote the value increase and in downvote the value decrease.                                                            |
-| If the user click delete quote.                     | The pop up alerts with cancel and ok option if user clicks ok the upvote and downvote get rids if click cancel they remain. |
+| If the user click delete quote.                     | The pop up alerts with cancel and ok option if user clicks ok the upvote and downvote get rids if click cancel they remain. | -->
 
 ### Link to live site
 Here is a link to the live site ####################
