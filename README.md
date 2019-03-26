@@ -1,4 +1,4 @@
-# Quotes Application
+<!-- # Quotes Application
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
 
@@ -13,7 +13,7 @@ Use the following to get to the quote application.
 - git clone (link)
 - cd Quotes
 - atom .  //For those using atom text editor.
-- code .  //For those using Visual Studio editor.
+- code .  //For those using Visual Studio editor. -->
 
 ## Development server
 
