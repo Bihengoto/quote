@@ -1,0 +1,33 @@
+<div class="container-fluid">
+  <h2 class="text-center">Read The Quotes Highlighted and Create your own Quote..</h2><hr>
+  <div class="row">
+     <div class="col-md-5">
+       <app-quote-form (addQuote)="quoteSubmission($event)"></app-quote-form>
+     </div>
+       <div class="col-md-7">
+         <ol type="i">
+            <div *ngFor='let quote of quotes;let position = index'>
+                <li >{{quote.quote}}</li>
+
+              <button class="btn btn-primary" (click)='toogleDetails(position)'>Toggle Quote</button>
+
+              <div class="row">
+                  <div class="col-md-4">
+                    <button class="btn btn-success" (click)='upVote(position)'>UpVote</button>
+                  </div>
+                  <div class="col-md-4">
+                    <button class="btn btn-info" (click)='downVote(position)'>DownVote</button>
+                  </div>
+                  <div class="col-md-4">
+                    <button class="btn btn-danger" (click)='deleteQuote(true)'>Delete Quote</button>
+                  </div>
+              </div>
+
+
+              <!-- Input Binding -->
+              <app-quote-details *ngIf="quote.showDescription" [quote]='quote' ></app-quote-details>
+          </div>
+        </ol>
+    </div>
+  </div>
+</div>
