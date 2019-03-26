@@ -2,21 +2,21 @@
     <div class="row">
         <form (ngSubmit)='quoteSubmission()' #quoteForm='ngForm'>
           <!--  Quote Input-->
-          <!-- <div class="form-group">
+          <div class="form-group">
               <label for="quote">QUOTE</label>
               <textarea class="form-control" id="quote" rows="4" [(ngModel)]="newQuote.quote" name="quote" #quoteref="ngModel" required></textarea>
               <div [hidden]="quoteref.valid || quoteref.pristine" class="alert alert-info">
                   <p> Quote is Required</p>
               </div>
-          </div> -->
+          </div>
             <!-- Author Form -->
-            <div class="form-group">
+            <!-- <div class="form-group">
                 <label for="author">Author</label>
                 <input type="text"  class="form-control" id="author" [(ngModel)]="newQuote.author" name="author" #author="ngModel" required>
                 <div [hidden]="author.valid || author.pristine" class="alert alert-info">
                     <p> Name is Required</p>
                 </div>
-            </div>
+            </div> -->
             <!-- Publisher Input -->
             <div class="form-group">
                 <label for="publisher">Publisher</label>
