@@ -35,7 +35,7 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-<!-- ### Technologies used
+### Technologies used
 The different technologies that were used to develop this program include:
 1. Angular.
 2. Typescript.
@@ -50,12 +50,12 @@ The different technologies that were used to develop this program include:
 |-----------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 | If the user click the add quote button.             | The quote will be added to the view page.                                                                                   |
 | Initial upvote and downvote is zero If user clicks. | In upvote the value increase and in downvote the value decrease.                                                            |
-| If the user click delete quote.                     | The pop up alerts with cancel and ok option if user clicks ok the upvote and downvote get rids if click cancel they remain. | -->
+| If the user click delete quote.                     | The pop up alerts with cancel and ok option if user clicks ok the upvote and downvote get rids if click cancel they remain. |
 
 ### Link to live site
-Here is a link to the live site ####################
+Here is a link to the live site https://bihengoto.github.io/quote/
 
-### Contact Me
+<!-- ### Contact Me
 In case of any additional contribution or suggestion on the project reach out on me isaacbihengoto@gmail.com.
 
 ## Further help
@@ -64,7 +64,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 ### License  & Copyright information
-Copyright (c) 2019 John Mwangi.
+Copyright (c) 2019 Isaac Mahugu.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -82,4 +82,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+SOFTWARE. -->
