@@ -55,7 +55,7 @@ The different technologies that were used to develop this program include:
 ### Link to live site
 Here is a link to the live site https://bihengoto.github.io/quote/
 
-<!-- ### Contact Me
+### Contact Me
 In case of any additional contribution or suggestion on the project reach out on me isaacbihengoto@gmail.com.
 
 ## Further help
@@ -82,4 +82,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE. -->
+SOFTWARE.
